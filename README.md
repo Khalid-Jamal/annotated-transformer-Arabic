@@ -5,6 +5,6 @@
 Khalid Jamal Fork
 # German-Arabic test of Intention Transformer based on "Intention is All What You Need"
 
-Use Visual Studio Code with Anaconda
-Clone the repo
+Use Visual Studio Code with Anaconda. 
+Clone the repo. 
 Use `AnnotatedTransformer.ipynb` to run the code
