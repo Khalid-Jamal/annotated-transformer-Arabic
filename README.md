@@ -3,7 +3,7 @@
 
 
 Khalid Jamal Fork
-# German-Arabic test of Intention Transformer based on "Intention is All What You Need"
+# German-Arabic test of Intention Transformer based on "Intention is All You Need"
 
 Use Visual Studio Code with Anaconda. 
 Clone the repo. 
