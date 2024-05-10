@@ -2,9 +2,18 @@
 
 
 
-Khalid Jamal Fork
-# German-Arabic test of Intention Transformer based on "Intention is All You Need"
-
-Use Visual Studio Code with Anaconda. 
-Clone the repo. 
-Use `AnnotatedTransformer.ipynb` to run the code
+Khalid Jamal Fork<br>
+<br>
+# German-Arabic test of Intention Transformer based on "Intention is All You Need" using [ArEnMulti30K](https://sites.google.com/view/arenmulti30k) dataset
+<br>
+Use Visual Studio Code with Anaconda. <br>
+Clone the repo. <br>
+Use [**AnnotatedTransformer.ipynb**](https://github.com/Khalid-Jamal/annotated-transformer-Arabic/blob/master/AnnotatedTransformer_arabic.ipynb) to run the code. The datasets URLs **need review**  <br>
+<br>
+# Citation
+If you use this implementation, please cite it as below.<br>
+author = Abdelqader,Khaled J.<br>
+orcid  = [0000-0001-7920-2227](https://orcid.org/0000-0001-7920-2227)<br>
+title  = German-Arabic test of Intention Transformer based on "Intention is All You Need" using ArEnMulti30K dataset<br>
+month  = May<br>
+year   = 2024
