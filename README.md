@@ -9,7 +9,13 @@ Khalid Jamal Fork<br>
 Use Visual Studio Code with Anaconda.<br>
 Clone the repo.<br>
 
-Use [AnnotatedTransformer.ipynb](https://github.com/Khalid-Jamal/annotated-transformer-Arabic/blob/master/AnnotatedTransformer_arabic.ipynb) to run the code. The datasets URLs **need review**<br>
+Use [AnnotatedTransformer_arabic.ipynb](https://github.com/Khalid-Jamal/annotated-transformer-Arabic/blob/master/AnnotatedTransformer_arabic.ipynb) to test the Arabic translation code. The datasets URLs **need review**<br>
+<br>
+
+# German-English test of 100 results
+<br>
+
+Use [AnnotatedTransformer_100results.ipynb](https://github.com/Khalid-Jamal/annotated-transformer-Arabic/blob/master/AnnotatedTransformer_100results.ipynb) to get 100 results for the three encoders.<br>
 <br>
 
 # Citation
